@@ -1,2 +1,2 @@
 console.log('config.js')
-console.log('verson1.js')    
+console.log('verson2.js')    
